@@ -1,42 +1,16 @@
+
 body {
-  font-family: sans-serif;
+  font-family: 'Sarabun', sans-serif;
+  background-color: #f8f8f8;
   margin: 0;
-  background-color: #f7f9fb;
+  padding: 0;
 }
 header {
-  background-color: #1976d2;
-  color: white;
-  padding: 1rem;
+  background-color: #fff;
   text-align: center;
+  padding: 10px;
 }
-nav ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: flex;
-  justify-content: center;
-  background: #1565c0;
-}
-nav ul li {
-  margin: 0 10px;
-}
-nav ul li a {
-  color: white;
-  text-decoration: none;
-  padding: 10px 15px;
+.banner {
   display: block;
 }
-nav ul li a:hover {
-  background-color: #0d47a1;
-  border-radius: 5px;
-}
-.logo {
-  max-height: 100px;
-}
-footer {
-  background-color: #1976d2;
-  color: white;
-  text-align: center;
-  padding: 1rem;
-  margin-top: 2rem;
-}
+    
